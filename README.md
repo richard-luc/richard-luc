@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Richard Lucero
+# Hi there 👋, I'm Richard Lucero Dean
 
 # Senior Full-Stack AI & Embedded Systems Engineer
 
