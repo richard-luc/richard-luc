@@ -1,16 +1,16 @@
 # Hi there 👋, I'm Richard
 
-# Senior Full-Stack AI & Embedded Systems Engineer
+# Senior Full-Stack AI, Mobile & Embedded Systems Engineer
 
-I design and build complete hardware–software ecosystems, from embedded firmware and electronics to scalable cloud platforms, AI systems, and real-time applications.
+I design and build complete hardware-software ecosystems, from embedded firmware and mobile applications to scalable cloud platforms, AI systems, and real-time applications.
 
 My work sits at the intersection of:
 
-- Full-Stack Software Development
+- Full-Stack and Mobile Application Development
 - AI/LLM Platform Engineering
 - Embedded Systems Engineering
 
-I specialize in building production-grade systems where hardware, cloud infrastructure, real-time communication, and intelligent automation must work together reliably.
+I specialize in production-grade systems where mobile applications, connected devices, cloud infrastructure, real-time communication, and intelligent automation must work together reliably.
 
 ---
 
@@ -24,6 +24,16 @@ I specialize in building production-grade systems where hardware, cloud infrastr
 - Web applications and admin platforms
 - Data pipelines and telemetry systems
 - CI/CD and deployment infrastructure
+
+## Mobile Applications
+- Cross-platform iOS and Android applications
+- React Native and Capacitor applications
+- Mobile authentication and secure storage
+- Push notifications and deep linking
+- Offline-first workflows and reliable synchronization
+- BLE and Wi-Fi device connectivity
+- Device telemetry and real-time data visualization
+- App Store and Google Play release workflows
 
 ## AI & Intelligent Systems
 - LLM applications and AI workflows
@@ -48,13 +58,16 @@ I specialize in building production-grade systems where hardware, cloud infrastr
 
 # Core Technologies
 
-## Full-Stack Development
+## Full-Stack & Mobile Development
 - Python
 - Node.js / TypeScript
 - React / Next.js
+- React Native / Capacitor
+- iOS / Android
 - FastAPI / Express
 - PostgreSQL / MySQL
 - REST APIs / WebSockets
+- BLE and device-to-mobile communication
 - Docker / CI/CD
 
 ## AI & Cloud
@@ -115,6 +128,11 @@ Most of my work involves architecting systems end-to-end, including firmware, ba
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Express.js](https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Bluetooth LE](https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
@@ -175,21 +193,6 @@ Most of my work involves architecting systems end-to-end, including firmware, ba
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-F59E0B?style=for-the-badge&logo=linux&logoColor=black)
 ![NGINX](https://img.shields.io/badge/NGINX-15803D?style=for-the-badge&logo=nginx&logoColor=white)
-
----
-
-# Current Interests
-
-I’m especially interested in projects involving:
-
-- Embedded AI and intelligent edge devices
-- IoT platforms and telemetry systems
-- RFID and sensor-driven products
-- Real-time motion tracking systems
-- Voice AI and conversational systems
-- Device-to-cloud infrastructure
-- Full-stack SaaS and operational platforms
-- AI-assisted automation and analytics
 
 ---
 
