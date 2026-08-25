@@ -90,33 +90,6 @@ I specialize in production-grade systems where mobile applications, connected de
 
 ---
 
-# Engineering Focus
-
-I enjoy building systems that combine:
-
-- AI + operational infrastructure
-- Hardware + cloud connectivity
-- Embedded firmware + real-time software
-- Edge computing + intelligent automation
-- Physical products + scalable backend platforms
-
-Most of my work involves architecting systems end-to-end, including firmware, backend services, APIs, cloud infrastructure, AI integration, and frontend applications.
-
----
-
-# Selected Areas of Interest
-
-- AI-powered applications
-- RFID and sensor ecosystems
-- Wearable and real-time telemetry systems
-- Voice AI systems
-- Embedded IoT platforms
-- Industrial and consumer hardware
-- Device management platforms
-- Edge AI and intelligent automation
-
----
-
 # Tech Stack
 
 ## Full-Stack Development
